@@ -4,6 +4,7 @@ import (
     "net/http"
 
     "github.com/gin-gonic/gin"
+    "github.com/prometheus/client_golang/prometheus/promhttp"
 )
 
 type Environment struct {
@@ -28,6 +29,8 @@ func main() {
 
         c.JSON(http.StatusOK, env)
     })
+
+    router.GET("/metrics", gin.WrapH(promhttp.Handler()))
 
     router.Run(":8080")
 }
