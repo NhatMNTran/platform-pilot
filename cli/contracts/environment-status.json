@@ -1,0 +1,11 @@
+{
+  "tool": "environment_status",
+  "description": "Fetch environment deployment status",
+  "inputSchema": {
+    "id": "string"
+  },
+  "outputSchema": {
+    "id": "string",
+    "status": "string"
+  }
+}
