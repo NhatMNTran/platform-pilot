@@ -1,5 +1,7 @@
 # Platform Pilot
 
+<img alt="MetricSample.png" src="https://github.com/NhatMNTran/platform-pilot/blob/master/MetricSample.png?raw=true" data-hpc="true" style="max-width:100%">
+
 AI agent friendly internal developer platform built with **Golang, TypeScript, Kubernetes, and Crossplane**.
 
 ---
@@ -12,8 +14,7 @@ PlatformPilot is a demo platform engineering system designed to showcase:
 * Developer tooling (TypeScript CLI)
 * Kubernetes orchestration
 * Infrastructure as Code using Crossplane
-* AI-agent friendly tooling design (structured contracts)
-* Production-style system architecture
+* AI agent friendly tooling design (structured contracts)
 
 The system is intentionally designed to behave like a simplified internal developer platform (IDP).
 
@@ -175,7 +176,7 @@ kubectl apply -f crossplane/
 All system outputs are structured JSON to ensure:
 
 * Automation reliability
-* AI-agent compatibility
+* AI agent compatibility
 * Predictable system behavior
 
 ---
@@ -210,7 +211,7 @@ This project demonstrates:
 * Kubernetes operational knowledge
 * Infrastructure automation design
 * AI-agent aware system design
-* End-to-end distributed system thinking
+* Distributed system thinking
 
 ---
 
