@@ -1,6 +1,6 @@
 # Platform Pilot
 
-<img alt="MetricSample.png" src="https://github.com/NhatMNTran/platform-pilot/blob/master/MetricSample.png?raw=true" data-hpc="true" style="max-width:100%">
+<img alt="MetricSample.png" data-hpc="true" src="https://github.com/NhatMNTran/platform-pilot/blob/master/documents/MetricSample.png?raw=true" style="max-width: 100%;">
 
 AI agent friendly internal developer platform built with **Golang, TypeScript, Kubernetes, and Crossplane**.
 
