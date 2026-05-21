@@ -1,6 +1,5 @@
 * Example 1: Create Environment
 Agent Input
-```json
 {
   "tool": "create_environment",
   "input": {
@@ -19,7 +18,7 @@ API Response
 * Example 2: Deploy Application
 
 CLI Command
-```platformctl deploy service --name payments-api
+```platformctl deploy service --name payments-api```
 
 Structured Output
 {
