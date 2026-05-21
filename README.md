@@ -2,6 +2,7 @@
 
 <img alt="MetricSample.png" data-hpc="true" src="https://github.com/NhatMNTran/platform-pilot/blob/master/documents/MetricSample.png?raw=true" style="max-width: 100%;">
 
+I will attempt to fix deploying a platform in the future, so far the server is functioning, scaliblity is effectively high, and connecting between all parts are active. Information collection and platform deployment proves to be a bit more complicated at the moment. Will research and return to the project ASAP.
 AI agent friendly internal developer platform built with **Golang, TypeScript, Kubernetes, and Crossplane**.
 
 ---
