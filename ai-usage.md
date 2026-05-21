@@ -1,6 +1,5 @@
-## Example 1: Create Environment
-
-### Agent Input
+* Example 1: Create Environment
+Agent Input
 ```json
 {
   "tool": "create_environment",
@@ -17,9 +16,9 @@ API Response
 }
 
 
-## Example 2: Deploy Application
+* Example 2: Deploy Application
 
-### CLI Command
+CLI Command
 ```platformctl deploy service --name payments-api
 
 Structured Output
